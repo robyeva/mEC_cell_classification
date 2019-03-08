@@ -7,3 +7,6 @@ These files contain the code for reading and visualizing the data, and classifyi
 Excitatory cells in layer 2 of mEC can belong to either the pyramidal cell or stellate cell class. Pyramidal cells can be stained with calbindin, stellate cells with reelin. Not all cells in the dataset are stained.
 
 For stained cells, electrophysiological properties are plotted and PCA is performed to check for class separability. Unstained cells are assigned a class based on the result of a linear 1d SVM classifier which uses the most relevant feature (half-width of sag potential, or, in short, sag duration).  
+
+
+For questions and additional information about the dataset: roberta.evangelista (at) posteo.de
