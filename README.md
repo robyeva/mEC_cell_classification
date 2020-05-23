@@ -1,5 +1,5 @@
-# mEC_cell_classification
-Analysis of data recorded from medial entorhinal cortex (mEC), layer 2. Cell classification based on relevant electrophysiological features
+# mEC_cell_classification 
+Analysis of neuronal data recorded from medial entorhinal cortex (mEC), layer 2. Cell classification based on relevant electrophysiological features
 
 Data are presented in Winterer, J., Maier, N., Wozny, C., Beed, P., Breustedt, J., Evangelista, R., ... & Schmitz, D. (2017). Excitatory microcircuits within superficial layers of the medial entorhinal cortex. Cell reports, 19(6), 1110-1116.
 
